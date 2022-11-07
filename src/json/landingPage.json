@@ -1,0 +1,467 @@
+{
+    "service" : [
+        {
+            "title": "Web/App Development",
+            "imageUrl": "assets/images/Web.png"
+        },
+        {
+            "title": "Game Development",
+            "imageUrl": "assets/images/Game.png"
+        },
+        {
+            "title": "Blockchain Development",
+            "imageUrl": "assets/images/BlockChain.png"
+        }
+    ],
+    "portfolio" : [
+        {
+            "id": "asd1293uasdads1",
+            "title": "moba game",
+            "imageUrl": "assets/images/moba.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Last Battle full set of complete source code + resources, pro-test MOBA class [full network first]",
+            "credit": "https://github.com/Atomotos/AtoMoba"
+        },
+        {
+            "id": "asdg2933aadads1",
+            "title": "car game",
+            "imageUrl": "assets/images/car.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Control race settings, number of racers, racer prefabs, rewards and more with a modular racing system that allows you to set race content & settings via scriptable object profiles.",
+            "credit": "https://simmer.io/@AtomotosA/atocarrace"
+        },
+        {
+            "id": "asd1293uhjkhkjh2",
+            "title": "tank+",
+            "imageUrl": "assets/images/tank.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "A lot of the scripts, such as the Turret System, Customizable Spawner, and Powerup Spawner, can be used in different games.",
+            "credit": "https://github.com/Atomotos/AtoTank"
+        },
+        {
+            "id": "asd1293uvbvcbbd3",
+            "title": "space battle",
+            "imageUrl": "assets/images/spacebattle.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Looking for a complete solution for getting your space game off the ground? The ATo Space battle gives you a massive head start, taking care of the complex and difficult coding so that you can focus on creating what makes your game fun and unique.",
+            "credit": "https://github.com/Atomotos/AtoSpaceBattle"
+        },
+        {
+            "id": "asd1293ufg4fgs4",
+            "title": "farm frezy",
+            "imageUrl": "assets/images/farm.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "This is a unique time-management strategy game kit which allows you to design and play hundreds of different levels with different missions, themes, objectives and properties.",
+            "credit": "https://simmer.io/@AtomotosA/atomocowfarm || https://simmer.io/@AtomotosA/atomoagefarm || https://simmer.io/@AtomotosA/atomomozafarm"            
+        },
+        {
+            "id": "asd1265ulskmnb5",
+            "title": "Fighting",
+            "imageUrl": "assets/images/Fight.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It offers a full solution for player movement, player combos, player input, an enemy wave system, enemy AI, a side-scrolling camera, audio manager and health system.",
+            "credit": "https://simmer.io/@AtomotosA/atomofight2-5d"
+        },
+        {
+            "id": "asd1293ulskm235",
+            "title": "TurnBaseGame",
+            "imageUrl": "assets/images/TurnBase.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "This genre allows people to spend some time thinking about the implication of each move. Instead of focusing on mechanical aspects of gaming, these games usually make us use our brains and come up with the most efficient solutions.",
+            "credit": "https://simmer.io/@AtomotosA/atoturnbase"
+        },
+        {
+            "id": "asd1293ulskmnc6",
+            "title": "ZombieGame",
+            "imageUrl": "assets/images/zombie.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "Feel the horror and adrenaline rush from the process of real surviving in a harsh environment!",
+            "credit": "https://github.com/Atomotos/ATOZombieGame"
+        },
+        {
+            "id": "asd1c9rulstmnc6",
+            "title": "RPGGame",
+            "imageUrl": "assets/images/RPG.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd12934lskmnb5",
+            "title": "AtoGlassesShop",
+            "imageUrl": "assets/images/Atoglasses.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development"
+            ],
+            "detail": "With thousands of glasses, Virtual Try-On, 2-Day Delivery, and frames for every budget",
+            "credit": "https://github.com/Atomotos/AtoGlassShop"
+        },
+        {
+            "id": "asd1293uls4m3b5",
+            "title": "AtoFurnitureShop",
+            "imageUrl": "assets/images/OnlineFurnitureShop.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development"
+            ],
+            "detail": "You may not be able to test out a couch yourself when you shop online, but you can read reviews, and you can also search for the precise item you want, narrowed down by your price range, all from the comfort of your own home.",
+            "credit": "https://github.com/Atomotos/AtoFurnitureShop"
+        },
+        {
+            "id": "asd129303mbb5",
+            "title": "AtoFashion",
+            "imageUrl": "assets/images/ClothShop.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development"
+            ],
+            "detail": "",
+            "credit": "https://github.com/Atomotos/AtoFashion"
+        },
+        {
+            "id": "aed1u93zlt6umnb5",
+            "title": "ArtShop",
+            "imageUrl": "assets/images/ArtShop.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development"
+            ],
+            "detail": "asdfasdfasdfasdfasdfasdfasdfasdfasdfasdf asdfasdfasdfasdfasdfasdfasdfasdf",
+            "credit": "https://github.com/Atomotos/AtoArtShop"
+        },
+        {
+            "id": "asd1293uqskenb5",
+            "title": "ATOSchool",
+            "imageUrl": "assets/images/education.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development"
+            ],
+            "detail": "A Twitter live feed on the homepage and social media icons linked in the site’s navigation menu encourages students and supporters to join in the conversation online.",
+            "credit": "https://github.com/Atomotos/DMSchool-Manager"
+        },
+        {
+            "id": "ijo8293lkjsdo93j",
+            "title": "ATO_Node_Marketplace",
+            "imageUrl": "assets/images/node_market.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "Node"
+            ],
+            "detail": "",
+            "credit": "https://github.com/BrainStorm0417/ATO-node-marketplace"
+        },
+        {
+            "id": "loij90493kj23894",
+            "title": "ATO_Node_Admin_Color",
+            "imageUrl": "assets/images/node_admin_color.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "Node"
+            ],
+            "detail": "ATO-node-admin-color is a fully featured, multi-purpose admin template built with Bootstrap 5, HTML5, CSS and JQuery and Nodejs ( EJS – Embedded Javascript Templates). It’s a fully responsive and have the very clean user interface that comes with a huge collection of components, widgets, UI elements.",
+            "credit": "https://github.com/BrainStorm0417/ATO-node-admin-color"
+        },
+        {
+            "id": "3lo4iasdfasdkj9j4",
+            "title": "ATO_Django",
+            "imageUrl": "assets/images/ATO_Django_Famous.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "Django",
+                "Python"
+            ],
+            "detail": "ATO_Django_Famous is suitable for anyone who is looking for an app, app landing, app template, app landing page, creative app landing page, app landing template, app store, App Showcase, app website, clean app landing, mobile app landing page, modern app Landing, parallax.",
+            "credit": "https://github.com/BrainStorm0417/ATO_Django_Famous"
+        },
+        {
+            "id": "490giaoij4oifa0o4a4",
+            "title": "ATO_Django_Admin",
+            "imageUrl": "assets/images/ATO_Django_Admin.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "Django",
+                "Python"
+            ],
+            "detail": "ATO_Django_Admin is a fully featured premium admin dashboard template in Django with developer-friendly codes. Starterkit is added to quick start with your project.",
+            "credit": "https://github.com/BrainStorm0417/ATO_Django_Admin"
+        },
+        {
+            "id": "309pokdklm93090ok",
+            "title": "ATO_React_Crypto_template",
+            "imageUrl": "assets/images/ATO_React_Crypto_template.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "React"
+            ],
+            "detail": "This template is built with the market trend and the well-anticipated future of the landing page. We have crafted this template with React v17.8.6, Bootstrap 5, HTML 5, CSS3, SCSS and W3C validated markup. All our effort was to make your website best in every single perspective.",
+            "credit": "https://github.com/BrainStorm0417/ATO_React_Crypto_template"
+        },
+        {
+            "id": "o348j8rjew4i8jg48",
+            "title": "ATO_React-Nextjs",
+            "imageUrl": "assets/images/ATO_React-Next.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "React"
+            ],
+            "detail": "This is a modern colorful Non-Profit Charity and Fundraising React Next Project. Which fits for all kind of charity, fundraising, nonprofit, NGO, donations, church, Mosque and all other non-profit charity website, businesses and NGO.",
+            "credit": "https://github.com/BrainStorm0417/ATO_React-Nextjs"
+        },
+        {
+            "id": "o348j8rjew4i8jg58",
+            "title": "ATO_React-Next-App-landing",
+            "imageUrl": "assets/images/ATO_React-Next-App-landing.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "React"
+            ],
+            "detail": "This is a professional, modern crafted React Next Template which is perfect for app landing, SEO, agency, marketing, start-up,and related any business showcase website, landing page or one page.",
+            "credit": "https://github.com/BrainStorm0417/ATO_React-Next-App-landing"
+        },
+        {
+            "id": "o348j8rjew4i8jg49",
+            "title": "ATO_React-Hotel-booking",
+            "imageUrl": "assets/images/ATO_React-Hotel-booking.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "React"
+            ],
+            "detail": "This is easily customizable, fully responsive, and support all modern browser and device. Features Overview Bootstrap 4 Framework: Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.",
+            "credit": "https://github.com/BrainStorm0417/ATO_React-Hotel-booking"
+        },
+        {
+            "id": "o348j8rjew4i8jg47",
+            "title": "ATO_React-dash-nextjs-Graphql",
+            "imageUrl": "assets/images/ATO_React-dash-nextjs-Graphql.png",
+            "type": "Website",
+            "responsibility": [
+                "Web Development",
+                "React"
+            ],
+            "detail": "A React.js, Next.js, GraphQL, TypeScript powered dashboard template. Highly optimized for your next react application.",
+            "credit": "https://github.com/BrainStorm0417/ATO_React-dash-nextjs-Graphql"
+        },
+        {
+            "id": "zs11293uldkmnb5",
+            "title": "ATONFTGallery",
+            "imageUrl": "assets/images/NFTGallery.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web Development",
+                "Blockchain"
+            ],
+            "detail": "ATONFTGALLERY is a NFT Marketplace that enables the creation, sale, and purchase of digital art as NFTs.",
+            "credit": "https://github.com/Atomotos/AtomoNFT"
+        },
+        {
+            "id": "asd52ruuyskmnb5",
+            "title": "ATOICO",
+            "imageUrl": "assets/images/ATOICO.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "ICO for create token",
+            "credit": "https://github.com/Atomotos/AtomotoICO"
+        },
+        {
+            "id": "405s3wkg3p34po3",
+            "title": "ATOMint",
+            "imageUrl": "assets/images/ATOMint.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "ATOMINT is a NFT MINT website",
+            "credit": "https://github.com/Atomotos/AtoMint"
+        }, 
+        {
+            "id": "3z3e9p0398e49",
+            "title": "ATOMint",
+            "imageUrl": "assets/images/NFTExplorer.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "This Project is a website how you can build your own NFT Marketplace. This project of course work on any EVM-compatible blockchain such as Polygon, Avalanche, Binance Smart Chain and other such chains.",
+            "credit": "https://github.com/Atomotos/Atomo_NFT_Explorer"
+        },
+        {
+            "id": "9lkjd83glaked04",
+            "title": "ATODefi",
+            "imageUrl": "assets/images/ATODefi.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "",
+            "credit": "https://github.com/Atomotos/AtomoDefi"
+        },
+        {
+            "id": "48foia9g03idf89",
+            "title": "ATOCoinTools",
+            "imageUrl": "assets/images/cointools.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "",
+            "credit": "https://cointools.io/"
+        },
+        {
+            "id": "48foia9g03idf88",
+            "title": "ATOSol",
+            "imageUrl": "assets/images/Atosolana.png",
+            "type": "BlockChain",
+            "responsibility": [
+                "Web BlockChain",
+                "Blockchain"
+            ],
+            "detail": "",
+            "credit": "http://atosol.epizy.com/"
+        }
+    ],
+    "advantage": [
+        [{
+            "title": "Communicative",
+            "description": "We communicate our project ideas and progress to make it clear.",
+            "imageUrl": "assets/images/Communicative.png"
+        },
+        {
+            "title": "Management",
+            "description": "We manage our project properly to make our project done well.",
+            "imageUrl": "assets/images/Management.png"
+        }],
+        [{
+            "title": "Collaborative​",
+            "description": "Our team are very collaborative to make our project done well.",
+            "imageUrl": "assets/images/Collaborative.png"
+        },
+        {
+            "title": "Favourite",
+            "description": "We've did so many project and all of our client love it.",
+            "imageUrl": "assets/images/Favourite.png"
+        }]
+    ],
+    "testimonial": [
+        {
+            "name": "Sasha Rose",
+            "company": "Owner, Surveyor Corps",
+            "testimoni": "Thanks for Racxstudio, you guys are the best! Keep up the great work!",
+            "imageUrl": "assets/images/Sasha.jpg"
+        },
+        {
+            "name": "Kruger Khan",
+            "company": "Director, Shultan Oil",
+            "testimoni": "I just wanted to let you know that it’s been great working with Racxstudio.",
+            "imageUrl": "assets/images/Kruger.jpg"
+        },
+        {
+            "name": "Reiner John",
+            "company": "CEO, Marley CO",
+            "testimoni": "Racxstudio is so great. Thank you so much for a job well done.",
+            "imageUrl": "assets/images/gi.png"
+        }
+    ],
+    "team": [
+        {
+            "name": "Brian Hartman",
+            "position": "CEO",
+            "imageUrl": "assets/images/BrianHartman.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "PatrickTaylor",
+            "position": "ProjectManager",
+            "imageUrl": "assets/images/PatrickTaylor.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "James Aoki",
+            "position": "Web3 & Fullstack Developer",
+            "imageUrl": "assets/images/JamesAoki.jpg",
+            "linkaddress": "https://jamesaoki.com"
+        },
+        {
+            "name": "Azmi Noh Bin Abdullah",
+            "position": "Lead developer",
+            "imageUrl": "assets/images/AzmiNohBinAbdullah.jpg",
+            "linkaddress": "https://linkedin.com/in/azminoh-abdul-595620231"
+        },
+        {
+            "name": "RobertJackson",
+            "position": "Rust & Fullstack developer",
+            "imageUrl": "assets/images/RobertJackson.jpg",
+            "linkaddress": "https://t.me/AlphaKitty1011"
+        },
+        {
+            "name": "JackieFunda",
+            "position": "Web3 & Frontend Developer",
+            "imageUrl": "assets/images/JackieFunda.jpg",
+            "linkaddress": "http://atomotos.com/"
+        },
+        {
+            "name": "RobertLee",
+            "position": "Fullstack Developer",
+            "imageUrl": "assets/images/RobertLee.jpg",
+            "linkaddress": "James.Lee318#2307"
+        },
+        {
+            "name": "VincentChao",
+            "position": "Fullstack Developer",
+            "imageUrl": "assets/images/VincentChao.jpg",
+            "linkaddress": "https://linkedin.com/in/vincent-chao-237b62235"
+        }
+    ]
+}
