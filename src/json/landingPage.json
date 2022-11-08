@@ -20,11 +20,13 @@
             "imageUrl": "assets/images/moba.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "AI Controller",
+                "Game UI",
+                "Photon",
+                "Integrate with server"
             ],
             "detail": "Last Battle full set of complete source code + resources, pro-test MOBA class [full network first]",
-            "credit": "https://github.com/Atomotos/AtoMoba"
+            "credit": "https://github.com/Backendeng/moba"
         },
         {
             "id": "asdg2933aadads1",
@@ -114,6 +116,66 @@
             "id": "asd1c9rulstmnc6",
             "title": "RPGGame",
             "imageUrl": "assets/images/RPG.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd1c9rulstmnc1",
+            "title": "Zomfi",
+            "imageUrl": "assets/images/zomfi.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd1c9rulstmnc2",
+            "title": "Poker",
+            "imageUrl": "assets/images/poker.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd1c9rulstmnc3",
+            "title": "Smoloons",
+            "imageUrl": "assets/images/smoloons.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd1c9rulstmnc3",
+            "title": "Age of Kingdom",
+            "imageUrl": "assets/images/ageofkingdom.png",
+            "type": "Games",
+            "responsibility": [
+                "Game Development",
+                "integrate with cryto"
+            ],
+            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
+            "credit": "https://github.com/Atomotos/ATORPGGame"
+        },
+        {
+            "id": "asd1c9rulstmnc3",
+            "title": "Pool",
+            "imageUrl": "assets/images/pool.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
