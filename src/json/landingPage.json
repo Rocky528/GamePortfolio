@@ -57,8 +57,8 @@
             ],
             "detail": " Botborgs NFT Game. The Borgverse is an open-world sci-fi-themed Metaverse that is built on a multi-planetary system. P2E open world Metaverse built on a multi-planetary system in the galaxy.",
             "credit": "https://github.com/Backendeng/zomfi",
-            "loom": "",
-            "loom1": "",
+            "loom": "https://www.loom.com/embed/cd9a224556a34e3f883cac8814a32b16",
+            "loom1": "https://www.loom.com/embed/748eda41aac8463db09ab0c77488d2d6",
             "play": ""
         },
         {
@@ -152,8 +152,8 @@
             ],
             "detail": "This genre allows people to spend some time thinking about the implication of each move. Instead of focusing on mechanical aspects of gaming, these games usually make us use our brains and come up with the most efficient solutions.",
             "credit": "https://simmer.io/@AtomotosA/atoturnbase",
-            "loom": "",
-            "loom1": "",
+            "loom": "https://www.loom.com/embed/620ab7987e754687b35f0ce98eb6657c",
+            "loom1": "https://www.loom.com/embed/d916c39d5bdf484f83cb86033e764760",
             "play": "https://i.simmer.io/@AtomotosA/atoturnbase"
         },
         {
@@ -199,7 +199,7 @@
             ],
             "detail": "- 3 cards will be flipped, and all 3 cards revealed at once. * Build Multiplayer game - Change single logic to multi using Photon server. - It will be public room without private room. I mean all players can create room and all players can see all rooms for joining. -  Use Database for store info like rewards, user etc.",
             "credit": "https://github.com/Atomotos/ATORPGGame",
-            "loom": "",
+            "loom": "https://www.loom.com/embed/ee9756e4154c422bad581880d629b156",
             "loom1": "",
             "play": "https://i.simmer.io/@JamesR/poker"
         },
@@ -215,8 +215,8 @@
             ],
             "detail": "Just connect to the Internet, launch game, create room with a name and distribute it to your friends with whom you want to battle. Max players allowed per room = 6",
             "credit": "https://github.com/Backendeng/Smoloons",
-            "loom": "",
-            "loom1": "",
+            "loom": "https://www.loom.com/embed/7bd6333ab20d4a41aa316e0157e4d7fb",
+            "loom1": "https://www.loom.com/embed/b691c5d2f6414141831d1507a82e41be",
             "play": "https://i.simmer.io/@JamesR/smoloons"
         },
         {
@@ -365,7 +365,7 @@
             ],
             "detail": "Metaverse Multiplayer Game.",
             "credit": "https://simmer.io/@AtomotosA/atopoker",
-            "loom": "",
+            "loom": "https://www.loom.com/embed/ece6ce255d414c4ebc6be8816eeb5452",
             "loom1": "",
             "play": ""
         },
