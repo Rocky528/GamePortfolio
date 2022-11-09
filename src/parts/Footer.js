@@ -9,7 +9,7 @@ export default function Footer() {
     <div className="bg-gray-50 border-t border-gray-200 pb-6">
       <div className="container flex-col mx-auto ">
         <div className="flex flex-col sm:flex-row mt-8 justify-center">
-          <div className="w-1/3 flex-col ml-16 mr-8">
+          <div className="w-1/2 flex-col ml-16 mr-8">
             <BrandIcon />
             <p className="w-full text-lg text-gray-400 font-light">
               Growing Your Business
@@ -18,7 +18,7 @@ export default function Footer() {
               Is Our Calling
             </p>
           </div>
-          <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
+          {/* <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
             <h1 className="text-lg text-theme-blue pt-4 pb-2">
               Office
             </h1>
@@ -31,27 +31,32 @@ export default function Footer() {
             <p className="text-lg text-gray-400 font-light">
               atomotosteam@gmail.com
             </p>
-            {/* <p className="text-lg text-gray-400 font-light">
+            <p className="text-lg text-gray-400 font-light">
               Klaten, Central Java, Indonesia
-            </p> */}
-          </div>
-          <div className="w-1/3 ml-16 sm:ml-0 mt-0">
-            <h1 className="text-lg text-theme-blue pt-4 pb-2">
-              Social
+            </p>
+          </div> */}
+          <div className="w-1/2 ml-16 sm:ml-0 mt-0">
+            <h1 className="text-theme-blue pt-4 pb-2">
+              Contact me
             </h1>
-            <h3 className="flex text-lg text-black-400 font-light hover:underline">
-              Discord : https://discord.gg/QtdYJWTM, Brain$torm#0993
-
-            </h3>
-            <h3 className="flex text-lg text-black-400 font-light hover:underline">
-              telegram : https://t.me/MetaverseNinja
-            </h3>
-            <Button href="linkedin.com/in/azminoh-abdul-595620231" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              LinkedIn
-            </Button>
-            <Button href="https://github.com/CryptoBrainStorm0417" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              Github
-            </Button>
+            <a href="https://discord.gg/ePmcWq7t" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
+              <span className="text-black-400">Discord : </span>
+              {' '}
+&nbsp;
+              <span className="text-gray-400">DripMicro#7786</span>
+            </a>
+            <a href="https://t.me/DripMicro" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
+              <span className="text-black-400">Telegram : </span>
+              {' '}
+&nbsp;
+              <span className="text-gray-400">@ DripMicro</span>
+            </a>
+            <a href="https://github.com/Backendeng" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
+              <span className="text-black-400">Github : </span>
+              {' '}
+&nbsp;
+              <span className="text-gray-400">https://github.com/Backendeng</span>
+            </a>
           </div>
         </div>
         <div className="flex-col text-center mt-7">

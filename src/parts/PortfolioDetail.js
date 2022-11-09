@@ -51,7 +51,7 @@ export default function PortfolioDetail({ data }) {
                       <p className="font-light text-xl text-gray-400 text-center mb-10">
                         {item.type}
                       </p>
-                      <p className="font-light text-xl italic text-gray-400 text-center mb-10">
+                      {/* <p className="font-light text-xl italic text-gray-400 text-center mb-10">
                         <Button
                           style={{
                             color: 'white', backgroundColor: '#505050', borderRadius: '6px', fontSize: '18px', marginTop: '30px', minHeight: '35px', marginBottom: 'auto', padding: '15px 80px 16px', fontWeight: '700', fontStyle: 'initial',
@@ -64,7 +64,7 @@ export default function PortfolioDetail({ data }) {
                         >
                           Live Preview
                         </Button>
-                      </p>
+                      </p> */}
                     </Fade>
 
                     <Fade bottom delay={300 * 1}>
@@ -73,54 +73,87 @@ export default function PortfolioDetail({ data }) {
                       </div>
                     </Fade>
 
-                    {}
-                    <Fade bottom>
-                      <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
-                        Screen Video
-                      </h2>
-                      <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
-                        <div id="loom" className="w-4/5 sm:w-4/6">
-                          <div style={{
-                            position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
-                          }}
-                          >
-                            <iframe
-                              title="loom"
-                              src={`${item.loom}?autoplay=1`}
-                              frameBorder={0}
-                              webkitallowfullscreen
-                              mozallowfullscreen
-                              allowFullScreen
-                              style={{
-                                position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                    {item.loom !== ''
+                      ? (
+                        <Fade bottom>
+                          <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
+                            Screen Video
+                          </h2>
+                          <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
+                            <div id="loom" className="w-4/5 sm:w-4/6">
+                              <div style={{
+                                position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
                               }}
-                            />
+                              >
+                                <iframe
+                                  title="loom"
+                                  src={`${item.loom}?autoplay=1`}
+                                  frameBorder={0}
+                                  webkitallowfullscreen
+                                  mozallowfullscreen
+                                  allowFullScreen
+                                  style={{
+                                    position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                                  }}
+                                />
+                              </div>
+                            </div>
                           </div>
-                        </div>
-                      </div>
-                    </Fade>
+                        </Fade>
+                      )
+                      : ''}
 
-                    <Fade bottom>
-                      <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
-                        Live Preview
-                      </h2>
-                      <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
-                        <div id="loom" className="w-4/5 sm:w-4/6">
-                          <div style={{
-                            position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
-                          }}
-                          >
-                            <iframe
-                              title="play"
-                              src="https://i.simmer.io/@AtomotosC/atomotos-fps-2"
-                              style={{
-                                position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                    {item.loom1 !== ''
+                      ? (
+                        <Fade bottom>
+                          <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
+                            <div id="loom" className="w-4/5 sm:w-4/6">
+                              <div style={{
+                                position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
                               }}
-                            />
+                              >
+                                <iframe
+                                  title="loom1"
+                                  src={`${item.loom1}?autoplay=1`}
+                                  frameBorder={0}
+                                  webkitallowfullscreen
+                                  mozallowfullscreen
+                                  allowFullScreen
+                                  style={{
+                                    position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                                  }}
+                                />
+                              </div>
+                            </div>
+                          </div>
+                        </Fade>
+                      )
+                      : ''}
+
+                    {item.play !== '' ? (
+                      <Fade bottom>
+                        <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
+                          Live Preview
+                        </h2>
+                        <div id="PlayID" className="flex justify-center xl:mb-6 mt-3">
+                          <div id="play" className="w-4/5 sm:w-4/6">
+                            <div style={{
+                              position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
+                            }}
+                            >
+                              <iframe
+                                title="play"
+                                src={item.play}
+                                style={{
+                                  position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                                }}
+                              />
+                            </div>
                           </div>
                         </div>
-                      </div>
-                    </Fade>
+                      </Fade>
+                    )
+                      : ''}
 
                     <Fade bottom delay={300 * 1}>
                       <div className="flex flex-col mt-16 mb-12 mx-8 sm:mx-16 xl:mx-28">
