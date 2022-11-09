@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 
 import Header from 'parts/Header';
 import PortfolioDetail from 'parts/PortfolioDetail';
-import Footer from 'parts/Footer';
+// import Footer from 'parts/Footer';
 
 import Data from 'json/landingPage.json';
 
@@ -22,7 +22,7 @@ export default class ProjectDetailPage extends Component {
         {/* eslint-disable-next-line react/jsx-props-no-spreading */}
         <Header {...this.props} />
         <PortfolioDetail data={detailData.length === 1 ? [detailData[0]] : null} />
-        <Footer />
+        {/* <Footer /> */}
       </>
     );
   }
