@@ -23,7 +23,7 @@ export default function AllPortfolio({ data }) {
           <TabList>
             <div className="flex flex-row mb-5">
               <Tab>
-                <button className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">Game</button>
+                <button className="font-normal px-5 py-2 mr-3 text-theme-purple text-lg border border-theme-purple rounded-full transition duration-300 hover:bg-theme-purple hover:text-white focus:outline-none focus:bg-theme-purple focus:text-white">Unity</button>
               </Tab>
             </div>
           </TabList>
