@@ -11,17 +11,17 @@ export default function Portfolio({ data }) {
   return (
     <section className="container mx-auto flex flex-col items-center mt-20">
       <Fade bottom>
-        <h1 className="text-5xl text-theme-blue text-center font-bold">Our Selected Project</h1>
+        <h1 className="text-5xl text-theme-blue text-center font-bold">My Selected Project</h1>
 
         <p className="font-light text-lg text-gray-400 text-center mb-12">
-          We are ready to scale up your business with our great work result.
+          I am ready to scale up your business with our great work result.
         </p>
       </Fade>
 
       <div className="grid grid-cols-2 sm:grid-cols-3 sm:gap-2 xl:gap-8 justify-items-center">
         {
                     data.map((item, index) => (
-                      <Fade bottom delay={500 * index}>
+                      <Fade bottom delay={100 * index}>
                         <Button type="link" href={`/project/${item.id}`}>
                           <div className="group rounded-2xl shadow-xl w-auto w-11/12 m-3 transform transition duration-500 hover:scale-110 portofolio-card">
                             <div className="relative">

@@ -48,7 +48,6 @@ export default function PortfolioDetail({ data }) {
                   <div className="flex flex-col mt-8 justify-center">
                     <Fade bottom>
                       <h1 className="text-5xl text-theme-blue text-center font-bold">{item.title}</h1>
-
                       <p className="font-light text-xl text-gray-400 text-center mb-10">
                         {item.type}
                       </p>
@@ -70,7 +69,30 @@ export default function PortfolioDetail({ data }) {
 
                     <Fade bottom delay={300 * 1}>
                       <div className="flex justify-center xl:mb-6">
-                        <img src={`../${item.imageUrl}`} alt="Project" className="flex w-4/5 sm:w-4/6" />
+                        <img src={`../${item.imageUrl}`} alt="Project" className="flex w-4/5 sm:w-3/6" />
+                      </div>
+                    </Fade>
+
+                    <Fade bottom>
+                      <div id="loomID" className="flex justify-center xl:mb-6 mt-4">
+                        <div id="loom" className="w-4/5 sm:w-4/6">
+                          <div style={{
+                            position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
+                          }}
+                          >
+                            <iframe
+                              title="loom"
+                              src={`${item.loom}?autoplay=1`}
+                              frameBorder={0}
+                              webkitallowfullscreen
+                              mozallowfullscreen
+                              allowFullScreen
+                              style={{
+                                position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                              }}
+                            />
+                          </div>
+                        </div>
                       </div>
                     </Fade>
 
@@ -92,12 +114,12 @@ export default function PortfolioDetail({ data }) {
 
                         <div className="flex flex-row ml-1">
                           {
-                                            item.responsibility.map((responsibility) => (
-                                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg">
-                                                {responsibility}
-                                              </div>
-                                            ))
-                                        }
+                            item.responsibility.map((responsibility) => (
+                              <div className="mr-4 px-6 py-3 text-theme-purple border border-theme-purple rounded-full shadow-lg">
+                                {responsibility}
+                              </div>
+                            ))
+                        }
                         </div>
                       </div>
                     </Fade>
