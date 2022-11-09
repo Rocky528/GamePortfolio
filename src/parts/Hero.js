@@ -5,7 +5,7 @@ import Fade from 'react-reveal/Fade';
 
 import Button from 'elements/Button';
 
-import BuildWebsite from 'assets/images/Startup.png';
+import BuildWebsite from 'assets/images/VR.png';
 
 export default function Hero() {
   return (
@@ -34,7 +34,7 @@ export default function Hero() {
       </Fade>
 
       <Fade bottom>
-        <div className="flex pt-5 w-full justify-center items-center order-first md:w-full lg:order-last lg:w-1/2">
+        <div className="flex pt-12 w-full justify-center items-center order-first md:w-full lg:order-last lg:w-1/2">
           <img className="" src={BuildWebsite} alt="Build Website" />
         </div>
       </Fade>
