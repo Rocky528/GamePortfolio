@@ -72,7 +72,7 @@ export default function PortfolioDetail({ data }) {
                         <img src={`../${item.imageUrl}`} alt="Project" className="flex w-4/5 sm:w-3/6" />
                       </div>
                     </Fade>
-                    
+
                     {}
                     <Fade bottom>
                       <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
@@ -99,7 +99,7 @@ export default function PortfolioDetail({ data }) {
                         </div>
                       </div>
                     </Fade>
-                    
+
                     <Fade bottom>
                       <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
                         Live Preview
