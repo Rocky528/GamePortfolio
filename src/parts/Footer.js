@@ -40,22 +40,16 @@ export default function Footer() {
               Contact me
             </h1>
             <a href="https://discord.gg/ePmcWq7t" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
-              <span className="text-black-400">Discord : </span>
-              {' '}
-&nbsp;
+              <span className="text-black-400">Discord:&nbsp;</span>
               <span className="text-gray-400">DripMicro#7786</span>
             </a>
             <a href="https://t.me/DripMicro" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
-              <span className="text-black-400">Telegram : </span>
-              {' '}
-&nbsp;
-              <span className="text-gray-400">@ DripMicro</span>
+              <span className="text-black-400">Telegram:&nbsp;</span>
+              <span className="text-gray-400">@DripMicro</span>
             </a>
             <a href="https://github.com/Backendeng" target="_blank" className="flex text-lg font-light hover:underline" rel="noreferrer">
-              <span className="text-black-400">Github : </span>
-              {' '}
-&nbsp;
-              <span className="text-gray-400">https://github.com/Backendeng</span>
+              <span className="text-black-400">Github:&nbsp;</span>
+              <span className="text-gray-400">Backendeng</span>
             </a>
           </div>
         </div>
