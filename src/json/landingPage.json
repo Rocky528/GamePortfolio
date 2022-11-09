@@ -35,59 +35,79 @@
             "imageUrl": "assets/images/zomfi.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "AI",
+                "UI",
+                "Design"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Zomfi game is 3D battle game. There are several small zombies and a big zombie at the end. Some of the zombies has some special abilities that can help you win the game, use them wisly! The game has 2 modes: Single player (against COM), and Multiplayer mode (Online).",
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "https://www.loom.com/embed/7b271dc18a554faab34a6e9a7c3596c8",
+            "loom1": "https://www.loom.com/embed/b7cf71780f54463e8a8b39bca11e6c61",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "asd1c9rul1stmnc3",
             "title": "Botborgs",
             "imageUrl": "assets/images/botborgs.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Player Controller",
+                "Animation",
+                "Integration Wallet"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": " Botborgs NFT Game. The Borgverse is an open-world sci-fi-themed Metaverse that is built on a multi-planetary system. P2E open world Metaverse built on a multi-planetary system in the galaxy.",
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asdg2933aadads1",
+            "id": "asdg2933aadds1",
             "title": "car game",
             "imageUrl": "assets/images/car.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Car Controller",
+                "UI",
+                "Animation"
             ],
             "detail": "Control race settings, number of racers, racer prefabs, rewards and more with a modular racing system that allows you to set race content & settings via scriptable object profiles.",
-            "credit": "https://simmer.io/@AtomotosA/atocarrace"
+            "credit": "https://github.com/Backendeng/zomfi",
+            "loom": "https://www.loom.com/embed/4301153fc36c4c8689fdee50bd651ca2",
+            "loom1": "https://www.loom.com/embed/cdfe2568bec94c9faef2e81b6ef853e8",
+            "play": "https://i.simmer.io/@AtomotosA/atocarrace"
         },
         {
             "id": "asd1293uhjkhkjh2",
-            "title": "tank",
+            "title": "Junior Tank",
             "imageUrl": "assets/images/tank.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Enermy AI",
+                "UI",
+                "Map"
             ],
-            "detail": "A lot of the scripts, such as the Turret System, Customizable Spawner, and Powerup Spawner, can be used in different games.",
-            "credit": "https://github.com/Atomotos/AtoTank"
+            "detail": "A tank  is a character class commonly seen in co-op video games such as real-time strategy games, role-playing games, fighting games. Rush in guns blazing, ambush your opponents with sneaky tactics, hang back.",
+            "credit": "https://github.com/Atomotos/AtoTank",
+            "loom": "https://www.loom.com/embed/6279e2716aae456b8bf6f6dbd4d80a13",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1293uvbvcbbd3",
-            "title": "space battle",
+            "id": "asd1293uvbv4cbbd3",
+            "title": "Space Battle",
             "imageUrl": "assets/images/spacebattle.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Planet",
+                "Controller",
+                "UI"
             ],
-            "detail": "Looking for a complete solution for getting your space game off the ground? The ATo Space battle gives you a massive head start, taking care of the complex and difficult coding so that you can focus on creating what makes your game fun and unique.",
-            "credit": "https://github.com/Atomotos/AtoSpaceBattle"
+            "detail": "Space revolves around interstellar affairs in a distant sector of the galaxy. 2D & 3D Games",
+            "credit": "https://github.com/Atomotos/AtoSpaceBattle",
+            "loom": "https://www.loom.com/embed/4cde07131a914889a25a73c5494e8628",
+            "loom1": "https://www.loom.com/embed/b2d2205507d04205ac6fca1a0c1173b7",
+            "play": "https://i.simmer.io/@AtomotosA/atospacebattle2d"
         },
         {
             "id": "asd1293ufg4fgs4",
@@ -95,11 +115,15 @@
             "imageUrl": "assets/images/farm.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Map",
+                "Animation",
+                "Controller"
             ],
-            "detail": "This is a unique time-management strategy game kit which allows you to design and play hundreds of different levels with different missions, themes, objectives and properties.",
-            "credit": "https://simmer.io/@AtomotosA/atomocowfarm || https://simmer.io/@AtomotosA/atomoagefarm || https://simmer.io/@AtomotosA/atomomozafarm"            
+            "detail": "https://simmer.io/@AtomotosA/atomoagefarm      https://simmer.io/@AtomotosA/atomocowfarm        https://simmer.io/@AtomotosA/atomofantacyfarm",
+            "credit": "https://simmer.io/@AtomotosA/atomocowfarm || https://simmer.io/@AtomotosA/atomoagefarm || https://simmer.io/@AtomotosA/atomomozafarm",
+            "loom": "https://www.loom.com/embed/90caf331ee34421db83eb097162bd589",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atomofantacyfarm"
         },
         {
             "id": "asd1265ulskmnb5",
@@ -107,11 +131,15 @@
             "imageUrl": "assets/images/Fight.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Character",
+                "AI",
+                "UI"
             ],
             "detail": "It offers a full solution for player movement, player combos, player input, an enemy wave system, enemy AI, a side-scrolling camera, audio manager and health system.",
-            "credit": "https://simmer.io/@AtomotosA/atomofight2-5d"
+            "credit": "https://simmer.io/@AtomotosA/atomofight2-5d",
+            "loom": "https://www.loom.com/embed/9e8ab475e710455e869fa52799711e9d",
+            "loom1": "https://www.loom.com/embed/f7a29f5e5e8943898d083060abf59091",
+            "play": "https://i.simmer.io/@AtomotosA/atomofight2-5d"
         },
         {
             "id": "asd1293ulskm235",
@@ -120,34 +148,44 @@
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "AI"
             ],
             "detail": "This genre allows people to spend some time thinking about the implication of each move. Instead of focusing on mechanical aspects of gaming, these games usually make us use our brains and come up with the most efficient solutions.",
-            "credit": "https://simmer.io/@AtomotosA/atoturnbase"
+            "credit": "https://simmer.io/@AtomotosA/atoturnbase",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atoturnbase"
         },
         {
-            "id": "asd1293ulskmnc6",
+            "id": "asd1293ulsskwwmnc6",
             "title": "ZombieGame",
             "imageUrl": "assets/images/zombie.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "UI"
             ],
             "detail": "Feel the horror and adrenaline rush from the process of real surviving in a harsh environment!",
-            "credit": "https://github.com/Atomotos/ATOZombieGame"
+            "credit": "https://github.com/Atomotos/ATOZombieGame",
+            "loom": "https://www.loom.com/embed/dd0a41dfe4d8444c9f43eac169d95006",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc6",
+            "id": "wngs1sdfj323",
             "title": "RPGGame",
             "imageUrl": "assets/images/RPG.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "Map",
+                "UI"
             ],
             "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/3bea3f1cb3cf46d68f2470bb932125fc",
+            "loom1": "https://www.loom.com/embed/3056b2d643d94d52b0ffd4ead265b130",
+            "play": ""
         },
         {
             "id": "asd1c9rulstmnc2",
@@ -156,133 +194,168 @@
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "Multi Progressing",
+                "UI"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "- 3 cards will be flipped, and all 3 cards revealed at once. * Build Multiplayer game - Change single logic to multi using Photon server. - It will be public room without private room. I mean all players can create room and all players can see all rooms for joining. -  Use Database for store info like rewards, user etc.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@JamesR/poker"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "sdgsadfstmnc3",
             "title": "Smoloons",
             "imageUrl": "assets/images/smoloons.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Bomberman",
+                "Photon",
+                "AI"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Just connect to the Internet, launch game, create room with a name and distribute it to your friends with whom you want to battle. Max players allowed per room = 6",
+            "credit": "https://github.com/Backendeng/Smoloons",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@JamesR/smoloons"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "asd1c9sadhtmnc3",
             "title": "Age of Kingdom",
             "imageUrl": "assets/images/ageofkingdom.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Strategy of resource",
+                "UI"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "The best battle strategy game. Strong army force is essential for ensuring peace!",
+            "credit": "",
+            "loom": "https://www.loom.com/embed/218fee8b3ef241169e7605470862d260",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "asdsrualstmnc3",
             "title": "Pool",
             "imageUrl": "assets/images/pool.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "UI"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "The balls game is easy to win. You just have to select the table and get ready. 8 Ball Pool is an addictive challenging game based on real 3D pool games, where you will challenge your friends online.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/49235e98b53b47308958ac3b337e0332",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "poknsg123352qrh",
             "title": "FPS 2 Demo",
             "imageUrl": "assets/images/fps2demo.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "FPS",
+                "Character",
+                "AI",
+                "Photon"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "FPS 2 Demo",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "https://www.loom.com/embed/3025554f0f784d85a2c46c4cb3a71b87",
+            "loom1": "https://www.loom.com/embed/6a01fb4c2ef841ca904c3f92d0be246d",
+            "play": "https://i.simmer.io/@AtomotosC/atomotos-fps-2"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "inass34hwkejh",
             "title": "RPG Farm",
             "imageUrl": "assets/images/rpgfarm.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "2D",
+                "UI"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Independent game development is where new and revolutionary ideas get a chance to shine, unconstrained by release dates and projected profits.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atomomozafarm"
         },
         {
-            "id": "asd1c9rulstmnc3",
-            "title": "Moderrn Suits",
+            "id": "srulstmnc3",
+            "title": "Modern Suits",
             "imageUrl": "assets/images/modernsuits.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Graphics",
+                "Animation"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Modern Suits Slot is a new powerful Slot game with premade Game Screen, Lobby, Pop-Ups in casual, modern, shiny, colorful style for your mobile/web/video game.",
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atolobby"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "yuksaemsanc3we",
             "title": "Easy Card Game",
             "imageUrl": "assets/images/easycardgame.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "Game Development"
             ],
             "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "credit": "https://github.com/Atomotos/ATORPGGame",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atoeasycard"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "ajtgtmnc234f",
             "title": "Black Jack",
             "imageUrl": "assets/images/backjack.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "Card"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Blackjack is a classic casino game of luck and strategy.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "",
+            "loom1": "",
+            "play": "https://i.simmer.io/@AtomotosA/atopoker"
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "woieasdf235hsdg",
             "title": "Geography",
             "imageUrl": "assets/images/geography.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "World Map"
             ],
             "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/999e243add0e48e0a2ce0579a4173cdd",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
-            "title": "konghero",
+            "id": "aasdemnc3",
+            "title": "Platformer Genre",
             "imageUrl": "assets/images/konghero.png",
             "type": "Games",
             "responsibility": [
-                "Game Development",
-                "integrate with cryto"
+                "UI",
+                "Animation"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Kong Hero is the Mario game style with very funny gameplay.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/e6d217f48d804745adf9e1202501cebf",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "asd1c9rulstmnc3fhdf",
             "title": "Cokeverse",
             "imageUrl": "assets/images/cokeverse.png",
             "type": "Games",
@@ -290,20 +363,27 @@
                 "Game Development",
                 "integrate with cryto"
             ],
-            "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "detail": "Metaverse Multiplayer Game.",
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "",
+            "loom1": "",
+            "play": ""
         },
         {
-            "id": "asd1c9rulstmnc3",
+            "id": "asd1c9rdfgjdfghc3",
             "title": "Battle FPS",
             "imageUrl": "assets/images/battle.png",
             "type": "Games",
             "responsibility": [
                 "Game Development",
-                "integrate with cryto"
+                "Battle",
+                "FPS"
             ],
             "detail": "It is a source project with the goal of enabling content creators to rapidly create unique and engaging short stories, scenarios, adventures, and even full games.",
-            "credit": "https://github.com/Atomotos/ATORPGGame"
+            "credit": "https://simmer.io/@AtomotosA/atopoker",
+            "loom": "https://www.loom.com/embed/43412d13a1a54f6ea7e28f8f2577a449",
+            "loom1": "",
+            "play": ""
         }
     ],
     "advantage": [
