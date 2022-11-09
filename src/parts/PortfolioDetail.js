@@ -72,9 +72,13 @@ export default function PortfolioDetail({ data }) {
                         <img src={`../${item.imageUrl}`} alt="Project" className="flex w-4/5 sm:w-3/6" />
                       </div>
                     </Fade>
-
+                    
+                    {}
                     <Fade bottom>
-                      <div id="loomID" className="flex justify-center xl:mb-6 mt-4">
+                      <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
+                        Screen Video
+                      </h2>
+                      <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
                         <div id="loom" className="w-4/5 sm:w-4/6">
                           <div style={{
                             position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
@@ -87,6 +91,28 @@ export default function PortfolioDetail({ data }) {
                               webkitallowfullscreen
                               mozallowfullscreen
                               allowFullScreen
+                              style={{
+                                position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
+                              }}
+                            />
+                          </div>
+                        </div>
+                      </div>
+                    </Fade>
+                    
+                    <Fade bottom>
+                      <h2 className="flex justify-center text-3xl text-theme-blue font-bold mt-6">
+                        Live Preview
+                      </h2>
+                      <div id="loomID" className="flex justify-center xl:mb-6 mt-3">
+                        <div id="loom" className="w-4/5 sm:w-4/6">
+                          <div style={{
+                            position: 'relative', paddingBottom: '50.502793296089386%', height: 0, width: '100%',
+                          }}
+                          >
+                            <iframe
+                              title="play"
+                              src="https://i.simmer.io/@AtomotosC/atomotos-fps-2"
                               style={{
                                 position: 'absolute', top: 0, left: 0, width: '100%', height: '100%',
                               }}
