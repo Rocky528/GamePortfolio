@@ -11,7 +11,7 @@ export default function BrandIcon() {
       href="/"
     >
       <p className="text-theme-blue text-4xl">
-        ATOMOTOS
+        ATO
         <span className="text-theme-purple" style={{ fontSize: '1.5rem' }}> Dream Come true</span>
       </p>
     </Button>

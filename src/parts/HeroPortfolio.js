@@ -4,7 +4,7 @@ import React from 'react';
 
 import Fade from 'react-reveal/Fade';
 
-import heroPortfolio from 'assets/images/portfolioHero.png';
+import heroPortfolio from 'assets/images/portfolio-min.jpg';
 
 export default function HeroPortfolio() {
   return (
@@ -18,7 +18,7 @@ export default function HeroPortfolio() {
             As a Software House that designs and develops website, mobile apps, games, and blockchain services, we have been trusted by our clients from all around the world.
           </p>
         </div>
-        <div className="w-full sm:w-1/2 sm:pr-12">
+        <div className="w-full sm:w-1/2 sm:pr-12 mt-12">
           <img src={heroPortfolio} alt="Hero" />
         </div>
       </Fade>
