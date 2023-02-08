@@ -12,7 +12,7 @@ export default function Service({ data }) {
           <h1 className="text-5xl text-theme-blue text-center font-bold">My Service</h1>
 
           <p className="font-light text-lg text-gray-400 text-center mb-12">
-            I are ready to scale up your business with my great service.
+            I am ready to scale up your business with my great service.
           </p>
         </Fade>
 

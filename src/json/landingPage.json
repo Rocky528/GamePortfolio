@@ -18,7 +18,7 @@
             "id": "adg5asdfgsadfs1",
             "title": "moba game",
             "imageUrl": "assets/images/moba.png",
-            "type": "Games",
+            "type": "Strategy Video Game",
             "responsibility": [
                 "AI Controller",
                 "Photon"
@@ -33,7 +33,7 @@
             "id": "asd1c9rulstmnc1",
             "title": "Zomfi",
             "imageUrl": "assets/images/zomfi.png",
-            "type": "Games",
+            "type": "Shooting Game",
             "responsibility": [
                 "AI",
                 "UI",
@@ -47,9 +47,9 @@
         },
         {
             "id": "asd1c9rul1stmnc3",
-            "title": "Botborgs",
+            "title": "Botborgs Car",
             "imageUrl": "assets/images/botborgs.png",
-            "type": "Games",
+            "type": "Racing and Runner",
             "responsibility": [
                 "Player Controller",
                 "Animation",
@@ -63,9 +63,9 @@
         },
         {
             "id": "asdg2933aadds1",
-            "title": "car game",
+            "title": "Car game",
             "imageUrl": "assets/images/car.png",
-            "type": "Games",
+            "type": "Racing and Runner",
             "responsibility": [
                 "Car Controller",
                 "UI",
@@ -81,7 +81,7 @@
             "id": "asd1293uhjkhkjh2",
             "title": "Junior Tank",
             "imageUrl": "assets/images/tank.png",
-            "type": "Games",
+            "type": "Other Game",
             "responsibility": [
                 "Enermy AI",
                 "UI",
@@ -97,7 +97,7 @@
             "id": "asd1293uvbv4cbbd3",
             "title": "Space Battle",
             "imageUrl": "assets/images/spacebattle.png",
-            "type": "Games",
+            "type": "Other Game",
             "responsibility": [
                 "Planet",
                 "Controller",
@@ -113,7 +113,7 @@
             "id": "asd1293ufg4fgs4",
             "title": "farm frezy",
             "imageUrl": "assets/images/farm.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Map",
                 "Animation",
@@ -129,7 +129,7 @@
             "id": "asd1265ulskmnb5",
             "title": "Fighting",
             "imageUrl": "assets/images/Fight.png",
-            "type": "Games",
+            "type": "Other Game",
             "responsibility": [
                 "Character",
                 "AI",
@@ -145,7 +145,7 @@
             "id": "asd1293ulskm235",
             "title": "TurnBaseGame",
             "imageUrl": "assets/images/TurnBase.png",
-            "type": "Games",
+            "type": "Turn Base Game",
             "responsibility": [
                 "Game Development",
                 "AI"
@@ -160,7 +160,7 @@
             "id": "asd1293ulsskwwmnc6",
             "title": "ZombieGame",
             "imageUrl": "assets/images/zombie.png",
-            "type": "Games",
+            "type": "Turn Base Game",
             "responsibility": [
                 "Game Development",
                 "UI"
@@ -175,7 +175,7 @@
             "id": "wngs1sdfj323",
             "title": "RPGGame",
             "imageUrl": "assets/images/RPG.png",
-            "type": "Games",
+            "type": "Other Game",
             "responsibility": [
                 "Game Development",
                 "Map",
@@ -191,7 +191,7 @@
             "id": "asd1c9rulstmnc2",
             "title": "Poker",
             "imageUrl": "assets/images/poker.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Game Development",
                 "Multi Progressing",
@@ -207,7 +207,7 @@
             "id": "sdgsadfstmnc3",
             "title": "Smoloons",
             "imageUrl": "assets/images/smoloons.png",
-            "type": "Games",
+            "type": "NFT Game",
             "responsibility": [
                 "Bomberman",
                 "Photon",
@@ -223,7 +223,7 @@
             "id": "asd1c9sadhtmnc3",
             "title": "Age of Kingdom",
             "imageUrl": "assets/images/ageofkingdom.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Strategy of resource",
                 "UI"
@@ -238,7 +238,7 @@
             "id": "asdsrualstmnc3",
             "title": "Pool",
             "imageUrl": "assets/images/pool.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "UI"
             ],
@@ -252,7 +252,7 @@
             "id": "poknsg123352qrh",
             "title": "FPS 2 Demo",
             "imageUrl": "assets/images/fps2demo.png",
-            "type": "Games",
+            "type": "Shooting Game",
             "responsibility": [
                 "FPS",
                 "Character",
@@ -269,7 +269,7 @@
             "id": "inass34hwkejh",
             "title": "RPG Farm",
             "imageUrl": "assets/images/rpgfarm.png",
-            "type": "Games",
+            "type": "Pixel Art Game",
             "responsibility": [
                 "2D",
                 "UI"
@@ -284,7 +284,7 @@
             "id": "srulstmnc3",
             "title": "Modern Suits",
             "imageUrl": "assets/images/modernsuits.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Graphics",
                 "Animation"
@@ -299,7 +299,7 @@
             "id": "yuksaemsanc3we",
             "title": "Easy Card Game",
             "imageUrl": "assets/images/easycardgame.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Game Development"
             ],
@@ -313,7 +313,7 @@
             "id": "ajtgtmnc234f",
             "title": "Black Jack",
             "imageUrl": "assets/images/backjack.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "Game Development",
                 "Card"
@@ -328,7 +328,7 @@
             "id": "woieasdf235hsdg",
             "title": "Geography",
             "imageUrl": "assets/images/geography.png",
-            "type": "Games",
+            "type": "Other Game",
             "responsibility": [
                 "Game Development",
                 "World Map"
@@ -343,7 +343,7 @@
             "id": "aasdemnc3",
             "title": "Platformer Genre",
             "imageUrl": "assets/images/konghero.png",
-            "type": "Games",
+            "type": "Mobile Game",
             "responsibility": [
                 "UI",
                 "Animation"
@@ -358,7 +358,7 @@
             "id": "asd1c9rulstmnc3fhdf",
             "title": "Cokeverse",
             "imageUrl": "assets/images/cokeverse.png",
-            "type": "Games",
+            "type": "NFT game",
             "responsibility": [
                 "Game Development",
                 "integrate with cryto"
@@ -373,7 +373,7 @@
             "id": "asd1c9rdfgjdfghc3",
             "title": "Battle FPS",
             "imageUrl": "assets/images/battle.png",
-            "type": "Games",
+            "type": "Shooting Game",
             "responsibility": [
                 "Game Development",
                 "Battle",
