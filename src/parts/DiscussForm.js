@@ -59,7 +59,7 @@ export default function DiscussForm(props) {
 
         <p className="font-light text-lg text-gray-400 text-center mb-12">          
           {/* eslint-disable-next-line react/no-unescaped-entities */}
-          Please fill out the form below to discuss your project and we'll get back to you in less than 24 hours.
+          Please fill out the form below to discuss your project and I'll get back to you in less than 24 hours.
         </p>
 
         <div className="flex flex-col">
@@ -124,7 +124,26 @@ export default function DiscussForm(props) {
           >
             Submit
           </Button>
+
         </div>
+
+        <h1 className="text-5xl text-theme-blue text-center font-bold mt-10">Contact me</h1>
+
+        <div className="flex flex-col">
+          <a href="https://discord.gg/ePmcWq7t" className="flex flex-col sm:flex-row mx-auto mt-3">
+            <h2 className="text-2xl text-gray-600"> Discord : DripMicro#7786  </h2> 
+          </a>
+          <a href="https://t.me/DripMicro" className="flex flex-col sm:flex-row mx-auto mt-3">
+            <h2 className="text-2xl text-gray-600"> Telegram :  @DripMicro </h2> 
+          </a>
+          <a href="https://join.skype.com/invite/EFeSGDmc1Sin" className="flex flex-col sm:flex-row mx-auto mt-3">
+            <h2 className="text-2xl text-gray-600"> Skype : live:.cid.d8585aedee1cdba8  </h2> 
+          </a>
+          <a href="tel:+18564324441" className="flex flex-col sm:flex-row mx-auto mt-3">
+            <h2 className="text-2xl text-gray-600"> Phone : +1 856 432 4441 </h2> 
+          </a>
+        </div>
+
       </Fade>
 
       <ToastContainer />
